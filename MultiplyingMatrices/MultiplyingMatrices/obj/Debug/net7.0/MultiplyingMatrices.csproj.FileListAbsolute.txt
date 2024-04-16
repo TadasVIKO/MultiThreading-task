@@ -1,0 +1,15 @@
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/MultiplyingMatrices.csproj.AssemblyReference.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/MultiplyingMatrices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/MultiplyingMatrices.AssemblyInfoInputs.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/MultiplyingMatrices.AssemblyInfo.cs
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/MultiplyingMatrices.csproj.CoreCompileInputs.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/bin/Debug/net7.0/MultiplyingMatrices
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/bin/Debug/net7.0/MultiplyingMatrices.deps.json
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/bin/Debug/net7.0/MultiplyingMatrices.runtimeconfig.json
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/bin/Debug/net7.0/MultiplyingMatrices.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/bin/Debug/net7.0/MultiplyingMatrices.pdb
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/MultiplyingMatrices.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/refint/MultiplyingMatrices.dll
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/MultiplyingMatrices.pdb
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/MultiplyingMatrices.genruntimeconfig.cache
+/Users/tadasgrigaitis/Library/CloudStorage/OneDrive-Vilniauskolegija/Multithreading/MultiplyingMatrices/MultiplyingMatrices/obj/Debug/net7.0/ref/MultiplyingMatrices.dll
